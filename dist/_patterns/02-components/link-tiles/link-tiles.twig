@@ -1,0 +1,10 @@
+<ul class="link-tiles">
+    {% for link in links %}
+        <li class="link-tiles__item">
+            <a class="link-tiles__link" href="{{ link.url }}">
+                <span>{{ link.text }}</span>
+                <span>{% include '@bits/circle-icon/circle-icon.twig' %}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>

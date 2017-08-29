@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "text": "foo bar",
+            "url": "http://google.com"
+        },
+        {
+            "text": "bar baz",
+            "url": "http://google.com"
+        },
+        {
+            "text": "baz quux",
+            "url": "http://google.com"
+        }
+    ]
+}
