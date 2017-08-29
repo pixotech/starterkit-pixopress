@@ -7,6 +7,9 @@
   "type":             "patternlab-starterkit",
   "authors": [
     {
+      "name": "Pixo"
+    },
+    {
       "name":         "Dave Olsen",
       "email":        "dmolsen@gmail.com",
       "homepage":     "http://dmolsen.com",
@@ -19,9 +22,8 @@
     }
   ],
   "support": {
-    "issues":         "https://github.com/pattern-lab/starterkit-twig-demo/issues",
-    "wiki":           "http://patternlab.io/docs/",
-    "source":         "https://github.com/pattern-lab/starterkit-twig-demo/releases"
+    "issues":         "https://github.com/pixotech/starterkit-pixopress/issues",
+    "source":         "https://github.com/pixotech/starterkit-pixopress/releases"
   },
   "require": {
     "pattern-lab/core": "^2.0.0",
