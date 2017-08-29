@@ -1,6 +1,6 @@
 {
   "name":             "pixo/starterkit-pixopress",
-  "description":      "Pixo's pattern lab starterkit for wordpress",
+  "description":      "Pixo's pattern lab starterkit",
   "keywords":         ["twig", "pattern lab", "starterkit"],
   "homepage":         "http://patternlab.io",
   "license":          "MIT",
